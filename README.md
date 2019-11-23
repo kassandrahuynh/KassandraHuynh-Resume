@@ -1,5 +1,5 @@
 
-# Kassandra Huynh Pre-Busines Student
+# Kassandra Huynh Pre-Business Student
 
 ![Preview of Website](img/preview.jpg)
 
